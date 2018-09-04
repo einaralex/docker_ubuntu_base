@@ -1,1 +1,1 @@
-# docker_ubuntu_base
+# einaralex/ubuntu-base:latest
